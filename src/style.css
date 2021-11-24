@@ -8,20 +8,20 @@
 
 /* Ariyibi Baseet created this for desktop background image of the header */
 .bg-d-image-header {
-  background-image: url("../public/img/desktop/image-header.jpg");
+  background-image: url("img/desktop/image-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 /* Damilola Idris Created this for desktop bakground image */
 .left {
-  background-image: url("../public/img/desktop/image-graphic-design.jpg");
+  background-image: url("img/desktop/image-graphic-design.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .right {
-  background-image: url("../public/img/desktop/image-photography.jpg");
+  background-image: url("img/desktop/image-photography.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

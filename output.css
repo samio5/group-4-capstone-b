@@ -34281,7 +34281,7 @@ video {
 /* Ariyibi Baseet created this for desktop background image of the header */
 
 .bg-d-image-header {
-  background-image: url("../public/img/desktop/image-header.jpg");
+  background-image: url("img/desktop/image-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -34290,29 +34290,17 @@ video {
 /* Damilola Idris Created this for desktop bakground image */
 
 .left {
-  background-image: url("../public/img/desktop/image-graphic-design.jpg");
+  background-image: url("img/desktop/image-graphic-design.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .right {
-  background-image: url("../public/img/desktop/image-photography.jpg");
+  background-image: url("img/desktop/image-photography.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-.learn {
-  content: "learn";
-  z-index: -1;
-  width: 100%;
-  height: 0.5rem;
-  position: absolute;
-  left: 0;
-  top: 68%;
-  border-radius: 1rem;
-  transition: 0.15s;
 }
 
 /* inserted by Fatodu Samuel for the testimonial cards */
